@@ -1754,11 +1754,12 @@ h3 {
 
 /* line 168, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_features.scss */
 .productivity_area {
-  background-image: url(../img/banner/product.png);
+  background-image: url(../img/banner/footer2.png);
   background-size: cover;
   background-position: center center;
   padding: 164px 0;
   background-repeat: no-repeat;
+  margin-bottom: -4%;
 }
 
 @media (max-width: 767px) {
@@ -2675,8 +2676,9 @@ h3 {
 /* line 6, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_footer.scss */
 .footer .footer_top {
   padding-top: 117px;
-  padding-bottom: 205px;
-  background: #1F1F1F;
+  padding-bottom: 100px;
+  
+  background-image: url(../img/banner/footer1.png);
 }
 
 @media (max-width: 767px) {
@@ -2743,7 +2745,7 @@ h3 {
 
 /* line 45, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_footer.scss */
 .footer .footer_top .footer_widget p {
-  color: #C7C7C7;
+  color: #fff;
 }
 
 /* line 48, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_footer.scss */
@@ -2786,14 +2788,14 @@ h3 {
 
 /* line 79, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_footer.scss */
 .footer .footer_top .footer_widget ul li {
-  color: #C7C7C7;
+  color: #fff;
   font-size: 13px;
   line-height: 42px;
 }
 
 /* line 83, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_footer.scss */
 .footer .footer_top .footer_widget ul li a {
-  color: #C7C7C7;
+  color: #fff;
 }
 
 /* line 85, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_footer.scss */
