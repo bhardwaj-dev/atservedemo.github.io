@@ -6267,7 +6267,7 @@ button.close {
     right: 0;
     bottom: 10px;
     left: 0;
-    z-index: 15;
+  
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
